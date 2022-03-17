@@ -1,0 +1,20 @@
+- x bug: bug:  Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
+
+- x make HOCs and put bring functionality into them 
+	- x make dataManager and bring all in
+		- x all useEffect in
+	- x convert all "customers"
+- x generize component
+	- x all pictures in, perhaps with limit
+
+- ,, replace suppliers with products and include 20 with pictures
+	- x https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/products.json
+	- x make shell page for products
+	- x show text products
+	- x fix layout and single item click
+	- x fix layout of individual item
+	- x update home page
+	- x post as howto
+
+
+// TODO: test bad urls e.g. customers?id=undefined
